@@ -1,4 +1,2 @@
-const driver= {
-  name: 
-  address: 
-}
+const driver= {}
+driver.name
