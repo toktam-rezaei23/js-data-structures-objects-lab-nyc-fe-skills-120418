@@ -1,1 +1,4 @@
-const driver= {}
+const driver= {
+  name: 
+  address: 
+}
