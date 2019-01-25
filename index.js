@@ -7,6 +7,10 @@ function updateDriverWithKeyAndValue(driver, key, value) {
   return copyDriver
 }
 
+function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
+  
+}
+
 
 
 
